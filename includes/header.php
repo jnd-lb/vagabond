@@ -95,3 +95,7 @@
 
 
   <?php include('./includes/shopping-cart.php') ?>
+
+  <script
+  src='https://cdn.jotfor.ms/agent/embedjs/01971264f2687b919d574ba203d710819e95/embed.js?skipWelcome=1&maximizable=1'>
+</script>
